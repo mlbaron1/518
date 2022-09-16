@@ -1,6 +1,6 @@
 ---
 title: 'Tidy R exercise: The tidyverse'
-author: "Márton Sóskuthy"
+author: "Márton Sóskuthy: with edits by Mitchi KB"
 date: "13/09/2022"
 output:
   html_document: default
